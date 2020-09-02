@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T19:39:41.469Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" version="13.6.6" etag="W4eujGykdRjnkaxPgfI4" type="github"><diagram id="9CQ1g8UaaYuZyXtLjS8T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-02T19:53:09.822Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="oOsuTKd57tFAuYY70hTa" version="13.6.6" type="github">
+  <diagram id="9CQ1g8UaaYuZyXtLjS8T" name="Page-1">
+    <mxGraphModel dx="1368" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jR1EenMn-0wsngSXym81-5" value="RabbitMQ Cluster" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="415" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-1" value="NODE 1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-2" value="NODE 2" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-3" value="NODE 3" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-4" value="Reverse Proxy&amp;nbsp;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.proxy_server;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-7" value="Synchronisation Policy for High Availability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jR1EenMn-0wsngSXym81-8" target="jR1EenMn-0wsngSXym81-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-8" value="Publisher Client" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="180" y="610" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jR1EenMn-0wsngSXym81-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jR1EenMn-0wsngSXym81-10" value="Consumer Client" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
