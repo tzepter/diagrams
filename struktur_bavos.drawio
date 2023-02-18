@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T07:55:01.157Z" agent="5.0 (X11; Ubuntu)" etag="tvlaTGfoSdpnrSY0nQ3T" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T07:58:47.233Z" agent="5.0 (X11; Ubuntu)" etag="c9mIKBz-0wKlcsJKgMib" version="20.2.3" type="github">
   <diagram id="C-uBXY8Ged-GaZulML1R" name="Seite-1">
     <mxGraphModel dx="916" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,12 +42,12 @@
         </mxCell>
         <mxCell id="RzIyw1bG6GVlp3xsneUb-18" value="1..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="RzIyw1bG6GVlp3xsneUb-17">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="10" y="-30" as="offset" />
+            <mxPoint x="10" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RzIyw1bG6GVlp3xsneUb-19" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="RzIyw1bG6GVlp3xsneUb-17">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="19" as="offset" />
+            <mxPoint x="15" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RzIyw1bG6GVlp3xsneUb-20" value="Regelungsinhalte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -59,13 +59,13 @@
         <mxCell id="RzIyw1bG6GVlp3xsneUb-22" value="Begünstigte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzIyw1bG6GVlp3xsneUb-23" value="Mitarbeiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-23" value="aktive und ehemalige Mitarbeiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RzIyw1bG6GVlp3xsneUb-26" value="&lt;h1&gt;Direktzusage&lt;br&gt;&lt;/h1&gt;&lt;p&gt;oBdA ist das Unternehmen ein Einzelunternehmen, kein Konzern, keine Holding.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="230" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RzIyw1bG6GVlp3xsneUb-29" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-20" target="RzIyw1bG6GVlp3xsneUb-13">
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-29" value="beinhalten" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-20" target="RzIyw1bG6GVlp3xsneUb-13">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="460" y="520" as="sourcePoint" />
             <mxPoint x="620" y="520" as="targetPoint" />
@@ -77,32 +77,37 @@
             <mxPoint x="620" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzIyw1bG6GVlp3xsneUb-32" value="0..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="RzIyw1bG6GVlp3xsneUb-31">
-          <mxGeometry x="-1" relative="1" as="geometry" />
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-32" value="1..n" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="RzIyw1bG6GVlp3xsneUb-31">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="-22" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RzIyw1bG6GVlp3xsneUb-33" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="RzIyw1bG6GVlp3xsneUb-31">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="10" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="RzIyw1bG6GVlp3xsneUb-34" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-22" target="RzIyw1bG6GVlp3xsneUb-23">
-          <mxGeometry width="160" relative="1" as="geometry">
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-34" value="sind" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-22" target="RzIyw1bG6GVlp3xsneUb-23">
+          <mxGeometry x="0.1429" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="460" y="520" as="sourcePoint" />
             <mxPoint x="620" y="520" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RzIyw1bG6GVlp3xsneUb-35" value="&lt;div&gt;Versorgungen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RzIyw1bG6GVlp3xsneUb-36" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-35" target="RzIyw1bG6GVlp3xsneUb-21">
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-36" value="???" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-35" target="RzIyw1bG6GVlp3xsneUb-21">
           <mxGeometry x="0.04" y="-15" width="160" relative="1" as="geometry">
             <mxPoint x="500" y="510" as="sourcePoint" />
             <mxPoint x="660" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="535" />
+              <mxPoint x="690" y="535" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzIyw1bG6GVlp3xsneUb-37" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-35" target="RzIyw1bG6GVlp3xsneUb-22">
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-37" value="begünstigt" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-35" target="RzIyw1bG6GVlp3xsneUb-22">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="460" y="520" as="sourcePoint" />
             <mxPoint x="620" y="520" as="targetPoint" />
