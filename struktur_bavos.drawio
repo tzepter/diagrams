@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T07:58:47.233Z" agent="5.0 (X11; Ubuntu)" etag="c9mIKBz-0wKlcsJKgMib" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T09:24:08.891Z" agent="5.0 (X11; Ubuntu)" etag="pdA567UvONSzsxpSLSyX" version="20.2.3" type="github">
   <diagram id="C-uBXY8Ged-GaZulML1R" name="Seite-1">
     <mxGraphModel dx="916" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,22 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="460" y="520" as="sourcePoint" />
             <mxPoint x="620" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-38" value="ist" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-21" target="RzIyw1bG6GVlp3xsneUb-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="460" y="540" as="sourcePoint" />
+            <mxPoint x="620" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-39" value="regelt" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-20" target="RzIyw1bG6GVlp3xsneUb-35">
+          <mxGeometry x="-0.2558" y="-15" width="160" relative="1" as="geometry">
+            <mxPoint x="570" y="680" as="sourcePoint" />
+            <mxPoint x="730" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="685" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
