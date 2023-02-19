@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T16:05:19.512Z" agent="5.0 (X11; Ubuntu)" etag="69inTf_L0DIeMoM6VKMi" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T16:33:07.631Z" agent="5.0 (X11; Ubuntu)" etag="g6nYRqLH8yU2mCtRH07Y" version="20.8.20" type="github">
   <diagram id="C-uBXY8Ged-GaZulML1R" name="Seite-1">
     <mxGraphModel dx="1844" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -278,13 +278,13 @@
         <mxCell id="DSj7y4Nlpi_zsEJx6jQW-32" value="&lt;div&gt;Versorgungs-&lt;/div&gt;&lt;div&gt;ordnung&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-33" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DSj7y4Nlpi_zsEJx6jQW-13" target="DSj7y4Nlpi_zsEJx6jQW-31">
+        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-33" value="" style="endArrow=none;endFill=0;endSize=24;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="DSj7y4Nlpi_zsEJx6jQW-13" target="DSj7y4Nlpi_zsEJx6jQW-31">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1030" y="870" as="sourcePoint" />
             <mxPoint x="940" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-34" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-20" target="DSj7y4Nlpi_zsEJx6jQW-32">
+        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-34" value="" style="endArrow=none;endFill=0;endSize=24;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=diamondThin;startFill=1;" edge="1" parent="1" source="RzIyw1bG6GVlp3xsneUb-20" target="DSj7y4Nlpi_zsEJx6jQW-32">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="720" y="970" as="sourcePoint" />
             <mxPoint x="940" y="630" as="targetPoint" />
