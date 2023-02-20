@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T07:21:04.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ca4L64r4JJT7kA1cwWFC" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T07:21:40.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="s4mW9AcYIAJzxkxMh8j5" version="20.8.20" type="github">
   <diagram id="C-uBXY8Ged-GaZulML1R" name="Seite-1">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             <mxPoint x="360" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RzIyw1bG6GVlp3xsneUb-20" value="(primärer Regelungsinhalt)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RzIyw1bG6GVlp3xsneUb-20" value="Produkt (?)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RzIyw1bG6GVlp3xsneUb-21" value="Firmenkunde" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
             <mxPoint x="1275" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-13" value="(primärer Regelungsinhalt)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-13" value="Produkt (?)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1335" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DSj7y4Nlpi_zsEJx6jQW-14" value="Firmenkunde" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
