@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T16:38:36.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="o1AYfC8WZ5XJHiorWttD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T21:00:52.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kcbJWa4bGBbg1Jsc9c8B" version="20.8.20" type="github">
   <diagram id="C-uBXY8Ged-GaZulML1R" name="Seite-1">
-    <mxGraphModel dx="1917" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1717" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,12 +233,12 @@
           <mxGeometry x="1603" y="240" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DSj7y4Nlpi_zsEJx6jQW-31" value="Geschäftsplan (Satzung, Versicherungs-bedingungen und Techn. Geschäftsplan)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1335" y="775" width="145" height="75" as="geometry" />
+          <mxGeometry x="1336" y="775" width="145" height="75" as="geometry" />
         </mxCell>
         <mxCell id="DSj7y4Nlpi_zsEJx6jQW-32" value="&lt;div&gt;Versorgungs-&lt;/div&gt;&lt;div&gt;ordnung&lt;/div&gt;" style="html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-33" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=1;startSize=12;" parent="1" source="DSj7y4Nlpi_zsEJx6jQW-13" target="DSj7y4Nlpi_zsEJx6jQW-31" edge="1">
+        <mxCell id="DSj7y4Nlpi_zsEJx6jQW-33" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;entryX=0.411;entryY=0.019;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=1;startSize=12;entryPerimeter=0;" parent="1" source="DSj7y4Nlpi_zsEJx6jQW-13" target="DSj7y4Nlpi_zsEJx6jQW-31" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1155" y="870" as="sourcePoint" />
             <mxPoint x="1065" y="630" as="targetPoint" />
@@ -276,7 +276,7 @@
           <mxGeometry x="1700" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mk7OWnhSMNmAOKg4Scf2-1" value="BVV Versicherungsverein des Bankgewerbes a.G." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="130" width="120" height="160" as="geometry" />
+          <mxGeometry x="1385" y="180" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mk7OWnhSMNmAOKg4Scf2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="mk7OWnhSMNmAOKg4Scf2-2" target="RzIyw1bG6GVlp3xsneUb-35">
           <mxGeometry relative="1" as="geometry">
@@ -465,7 +465,7 @@
         <mxCell id="mk7OWnhSMNmAOKg4Scf2-44" value="&lt;h1&gt;Unterstützungs-kasse&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="688" y="1240" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="mk7OWnhSMNmAOKg4Scf2-45" value="Leistungsplan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="mk7OWnhSMNmAOKg4Scf2-45" value="Leistungsplan (entspricht nur den VB bei der PK)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="420" y="1775" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mk7OWnhSMNmAOKg4Scf2-46" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=1;startSize=12;" edge="1" source="mk7OWnhSMNmAOKg4Scf2-30" target="mk7OWnhSMNmAOKg4Scf2-45" parent="1">
@@ -632,8 +632,17 @@
             <mxPoint x="980" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk7OWnhSMNmAOKg4Scf2-87" value="versicherte Person" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="630" width="150" height="20" as="geometry" />
+        <mxCell id="mk7OWnhSMNmAOKg4Scf2-90" value="versicherte Person" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mk7OWnhSMNmAOKg4Scf2-91" value="VN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mk7OWnhSMNmAOKg4Scf2-92" value="VN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mk7OWnhSMNmAOKg4Scf2-93" value="Spezialfall: Einzelzusage" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="720" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
