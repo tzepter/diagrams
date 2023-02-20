@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T07:21:40.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="s4mW9AcYIAJzxkxMh8j5" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T07:22:53.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Z9xE6n2c_cuRn0rNXPHk" version="20.8.20" type="github">
   <diagram id="C-uBXY8Ged-GaZulML1R" name="Seite-1">
     <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -303,11 +303,11 @@
             <mxPoint x="340" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mk7OWnhSMNmAOKg4Scf2-8" value="Pensionskasse" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="330" width="120" height="70" as="geometry" />
+        <mxCell id="mk7OWnhSMNmAOKg4Scf2-8" value="Pensionskasse" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="330" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="mk7OWnhSMNmAOKg4Scf2-9" value="Direktzusage" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="190" y="330" width="120" height="70" as="geometry" />
+        <mxCell id="mk7OWnhSMNmAOKg4Scf2-9" value="Direktzusage" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mk7OWnhSMNmAOKg4Scf2-10" value="Gesetz, Verordnung, BMF-Schreiben etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1025" y="855" width="120" height="60" as="geometry" />
