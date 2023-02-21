@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T10:16:20.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="n5bnCFMDatYmV2eVH3GE" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-21T16:39:19.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GncPp6dCSgqHdVaHHXtM" version="20.8.20" type="github" pages="3">
   <diagram id="C-uBXY8Ged-GaZulML1R" name="Seite-1">
     <mxGraphModel dx="1728" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -837,6 +837,206 @@
           <mxGeometry x="740" y="720" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FRi25XrH1l0hQHkTfGeG-141" value="blau = Hinweis / Bemerkung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="FRi25XrH1l0hQHkTfGeG-1">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Pensionskasse" id="HQmsmNwaOhsKOGYMK2pH">
+    <mxGraphModel dx="2074" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-0" />
+        <mxCell id="uUnusiSkYr2SaMLW99GW-1" parent="uUnusiSkYr2SaMLW99GW-0" />
+        <mxCell id="uUnusiSkYr2SaMLW99GW-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="320" y="390" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-24" value="&lt;div&gt;Unternehmen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="30" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-25" value="Durchführungsweg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="30" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-26" value="Leistungsträger" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="340" y="443" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-27" value="Durchführungsweg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="340" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-28" value="ist" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-26" target="uUnusiSkYr2SaMLW99GW-44">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="600" as="sourcePoint" />
+            <mxPoint x="490" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="458" />
+              <mxPoint x="480" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-29" value="ist" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-27" target="uUnusiSkYr2SaMLW99GW-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="600" as="sourcePoint" />
+            <mxPoint x="490" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-30" value="&lt;div&gt;Versorgungs-&lt;/div&gt;&lt;div&gt;ordnung&lt;/div&gt;" style="html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="30" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-31" value="besitzt" style="endArrow=diamondThin;html=1;endSize=12;startArrow=none;startSize=12;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.506;entryY=1.078;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-30" target="uUnusiSkYr2SaMLW99GW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="540" as="sourcePoint" />
+            <mxPoint x="280" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-32" value="Produkt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="340" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-33" value="Firmenkunde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="340" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-34" value="Begünstigter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-35" value="aktiver oder ehemalige Mitarbeiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="150" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-36" value="verweist auf" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endFill=0;startArrow=none;startFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-49" target="uUnusiSkYr2SaMLW99GW-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="sourcePoint" />
+            <mxPoint x="540" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-37" value="hat" style="endArrow=diamondThin;html=1;endSize=12;startArrow=none;startSize=12;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=0.403;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.89;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-35" target="uUnusiSkYr2SaMLW99GW-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="sourcePoint" />
+            <mxPoint x="540" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-38" value="ist" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-34" target="uUnusiSkYr2SaMLW99GW-35">
+          <mxGeometry x="0.1429" y="10" width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="sourcePoint" />
+            <mxPoint x="540" y="520" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-39" value="&lt;div&gt;Versorgung&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="550" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-40" value="sagt zu" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-39" target="uUnusiSkYr2SaMLW99GW-33">
+          <mxGeometry x="0.04" y="-15" width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="535" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-41" value="begünstigt" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-39" target="uUnusiSkYr2SaMLW99GW-34">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="sourcePoint" />
+            <mxPoint x="540" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-42" value="ist" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-33" target="uUnusiSkYr2SaMLW99GW-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="380" y="540" as="sourcePoint" />
+            <mxPoint x="540" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-43" value="regelt" style="endArrow=none;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-32" target="uUnusiSkYr2SaMLW99GW-39">
+          <mxGeometry x="-0.2558" y="-15" width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="680" as="sourcePoint" />
+            <mxPoint x="650" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="685" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-44" value="Versorgungseinrichtung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="280" y="280" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-47" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="578" y="230" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-48" value="&lt;h1&gt;Pensionskasse&lt;br&gt;&lt;/h1&gt;&lt;p&gt;...&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="608" y="240" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-49" value="Geschäftsplan (Satzung, Versicherungs-bedingungen und Techn. Geschäftsplan)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="341" y="775" width="145" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-51" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;entryX=0.411;entryY=0.019;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=1;startSize=12;entryPerimeter=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-32" target="uUnusiSkYr2SaMLW99GW-49">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="870" as="sourcePoint" />
+            <mxPoint x="70" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-54" value="Versicherungs- vertrag" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="550" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-56" value="" style="endArrow=block;endSize=12;endFill=0;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-54" target="uUnusiSkYr2SaMLW99GW-39">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="790" as="sourcePoint" />
+            <mxPoint x="650" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-58" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Mandant &quot;Pensionkasse - BVV ... a.G.&quot;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="705" y="410" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-59" value="BVV Versicherungsverein des Bankgewerbes a.G." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="390" y="180" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-65" value="Pensionskasse" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="220" y="330" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-67" value="Gesetz, Verordnung, BMF-Schreiben etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="30" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-68" value="Regelungsinhalt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="340" y="860" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-69" value="" style="endArrow=diamondThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-67" target="uUnusiSkYr2SaMLW99GW-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="990" as="sourcePoint" />
+            <mxPoint x="260" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="uUnusiSkYr2SaMLW99GW-1" source="uUnusiSkYr2SaMLW99GW-68" target="uUnusiSkYr2SaMLW99GW-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="885" />
+              <mxPoint x="720" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-71" value="regelt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uUnusiSkYr2SaMLW99GW-70">
+          <mxGeometry x="-0.321" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-73" value="weiß = abstrakte Kategorie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-74" value="grün = Schlüsselbegriff" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="30" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-75" value="gelb = Kategorie, &quot;die den Unterschied macht&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="160" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-76" value="rot = konkrete Ausprägung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-137" value="versicherte Person" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="390" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-138" value="VN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="335" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-139" value="VN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
+          <mxGeometry x="435" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uUnusiSkYr2SaMLW99GW-141" value="blau = Hinweis / Bemerkung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="uUnusiSkYr2SaMLW99GW-1">
           <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
