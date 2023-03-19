@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T09:46:48.011Z" agent="5.0 (X11; Ubuntu)" etag="bz9VjyUeNqVtPth59lpy" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T09:50:41.415Z" agent="5.0 (X11; Ubuntu)" etag="lzymA9bE4jJOZ3ipvifZ" version="21.0.8" type="github">
   <diagram name="Seite-1" id="HePX6uPt-l3w_XSO-Ehl">
     <mxGraphModel dx="2010" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="700" y="640" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MM7_vCs29TRkDopOqIrF-18" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;XYZ Pensionskasse&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=26&#xa;;" parent="1" vertex="1">
-          <mxGeometry x="876" y="671" width="120" height="30" as="geometry" />
+          <mxGeometry x="871" y="669" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MM7_vCs29TRkDopOqIrF-19" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;HCOB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=26&#xa;;" parent="1" vertex="1">
           <mxGeometry x="1009.81" y="662.15" width="120" height="30" as="geometry" />
@@ -49,7 +49,7 @@
         <mxCell id="MM7_vCs29TRkDopOqIrF-20" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;SEB / Savills&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=26&#xa;;" parent="1" vertex="1">
           <mxGeometry x="1300" y="670" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MM7_vCs29TRkDopOqIrF-21" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Deutsche Bank&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=26&#xa;;" parent="1" vertex="1">
+        <mxCell id="MM7_vCs29TRkDopOqIrF-21" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;ABC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=26&#xa;;" parent="1" vertex="1">
           <mxGeometry x="1180" y="618.39" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
