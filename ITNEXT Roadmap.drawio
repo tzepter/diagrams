@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T08:07:10.197Z" agent="5.0 (X11; Ubuntu)" etag="oPxyoGlTVIPcTMlMrRq1" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T08:08:29.308Z" agent="5.0 (X11; Ubuntu)" etag="VuqiS14VtzFIwltSlgqO" version="21.0.8" type="github">
   <diagram name="Seite-1" id="WIlFP_-YqcEN8Ks7jPTe">
     <mxGraphModel dx="1858" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="FdKZKXFYypH6AvHxXqry-23" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;12 / 2026&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#191970;strokeColor=#191970;fontColor=#ffff66;" vertex="1" parent="1">
           <mxGeometry x="290" y="973" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-24" value="rückgerechnet anhand relativer Größe auf Basis schlechter Schätzung" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="985" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
