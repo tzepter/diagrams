@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T07:23:53.354Z" agent="5.0 (X11; Ubuntu)" version="21.0.8" etag="z5Loxqi-NmxSZTcwXzbx" type="github"><diagram name="Seite-1" id="WIlFP_-YqcEN8Ks7jPTe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-16T07:52:13.237Z" agent="5.0 (X11; Ubuntu)" etag="XddCQVSpW8ArSmj_VkFP" version="21.0.8" type="github">
+  <diagram name="Seite-1" id="WIlFP_-YqcEN8Ks7jPTe">
+    <mxGraphModel dx="1858" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FdKZKXFYypH6AvHxXqry-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MVP&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Altersrentenfestsetzung für eine Direktzusage-VO (DSK-Z86), automatisierte Berechnung, Rentenprozesse über SAP, (halb-)manuelles Rentenbestätigungsschreiben&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MVP&lt;/font&gt;&lt;/h1&gt;technisch an BAVOS angebunden, berechnet Altersverrentung des DSK-Z86" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-4" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#000099&quot;&gt;&lt;b&gt;BAV-Manager&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-5" value="&lt;font size=&quot;1&quot; color=&quot;#000099&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;BAVOS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-6" value="&lt;font size=&quot;1&quot; color=&quot;#000099&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;B2C-Portal&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-7" value="Triger für Altersrentenanträge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-8" value="&lt;font size=&quot;1&quot; color=&quot;#000099&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;DOXIS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-9" value="Triger für Altersrentenanträge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-10" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Direktzusagen ziemlich fertig&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Erweiterung auf alle lebenszyklischen Prozesse (aus Zahlung und B2A-Meldungen)&lt;br&gt;&lt;/p&gt;&lt;p&gt;Erweiterung auf alle M200-VOs&lt;/p&gt;&lt;p&gt;Migration aus M200 vollständig&lt;/p&gt;&lt;p&gt;Bestandsveränderungsmeldung aus Firmenportal&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-12" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;nrPP Neugeschäft&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;fondsbasierte Zusagen im BVV-PF&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;fondsakzessorische Direktzusagen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SN zu fremdem Fondsverwaltungssystem&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-13" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BAVOS vollständig für Anwärter&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;Anwärter PK, UK, PF&lt;/div&gt;&lt;div&gt;Rentenabrechnung und B2A noch in SAP&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="760" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-14" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;BAVOS vollständig für Anwärter und Rentner&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;/h1&gt;&lt;div&gt;neue Systeme für Rentenzahlungen und B2A-Meldungen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;vollständige Ablösung von SAP als Bestandsverwaltung&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="960" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-15" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-16" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-17" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FdKZKXFYypH6AvHxXqry-18" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
